@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: "TODO List"
+
+baseURL: "https://61da8b424593510017aff57d.mockapi.io/api/v1/tasks"
